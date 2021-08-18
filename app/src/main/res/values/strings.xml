@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Yanolja</string>
+    <string name="home">홈</string>
+    <string name="area">지역</string>
+    <string name="surroundings">내 주변</string>
+    <string name="heart">찜</string>
+    <string name="my">my 야놀자</string>
+    <string name="recommend">추천</string>
+    <string name="accommodation">국내숙소</string>
+    <string name="fun">즐길거리</string>
+    <string name="traffic">교통/항공</string>
+    <string name="trip">해외여행</string>
+    <string name="newHot">NEW &amp; HOT</string>
+    <string name="today_price">오늘의 특가</string>
+    <string name="trip_area">지금 여행가기 좋은 지역</string>
+    <string name="sign_up">야놀자가 처음이신가요?</string>
+    <string name="weekly">위클리 인기 Top</string>
+    <string name="pre_hot">지난주 구매 기반 인기 많은 순</string>
+    <string name="total">전체보기</string>
+    <string name="magazine">오늘의 인기 매거진</string>
 </resources>
